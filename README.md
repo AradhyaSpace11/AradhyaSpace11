@@ -1,8 +1,3 @@
-I love to code and solve real world problems using computers 
-love to create ethical projects and solutions which can bring a change to people's lives
-Winner of 3 major science fairs
-participant of Google Science fair 2018-19
-Aspiring Computer Engineer
-aparently loves rocket related stuff too.
-I am fluent in Python, C++, Arduino C++ and  I love android development
-Beginner in Swift though but confident that I will master it
+I am passionate about coding and leveraging computer science to address real-world challenges. My commitment to developing ethical projects and solutions is driven by a desire to positively impact people's lives. My work has been recognized at three major science fairs, and I had the privilege of participating in the Google Science Fair for the 2018-2019 session. As an aspiring Computer Engineer, my interests also extend to aerospace technologies, particularly those related to rocketry.
+
+I possess proficiency in Python, C++, and Arduino C++, with a keen interest in Android development. While I am relatively new to Swift, my foundational knowledge in programming and a strong determination equip me with confidence in mastering it soon.
