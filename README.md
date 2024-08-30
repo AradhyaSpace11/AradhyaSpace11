@@ -6,11 +6,19 @@
 
 ###
 
+<h4 align="right">.</h4>
+
+###
+
 <h1 align="left">Projects I am currently working on:</h1>
 
 ###
 
 <h3 align="left">🐧PolluxPenguin: An RAG-LLM centered GNC assistant for simplified Drone applications<br><br>📷ConViz:  Context-Based Object detection utilizing Ultralytic's YOLO models and open source LMMs<br><br>🚀Quark: A hobby project researching new ways to guide airborne projectiles<br><br>🌐websitem: Learning web dev basics from scratch. currently learning JS and CSS</h3>
+
+###
+
+<h4 align="right">.</h4>
 
 ###
 
@@ -56,21 +64,27 @@
 
 ###
 
+<h4 align="right">.</h4>
+
+###
+
 <h1 align="left">Stats:</h1>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AradhyaSpace11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="280" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AradhyaSpace11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="275" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AradhyaSpace11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="135" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AradhyaSpace11&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/AradhyaSpace11/AradhyaSpace11/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h4 align="right">.</h4>
 
 ###
 
@@ -78,7 +92,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.licdn.com/dms/image/v2/D5603AQHC4pZZsEc33Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699427025956?e=1730332800&v=beta&t=ahK4KYr-pb2jCRkmrvAAzvESAhleYp3Gy658ss6-Zl4"  />
+<img align="right" height="250" src="https://media.licdn.com/dms/image/v2/D5603AQHC4pZZsEc33Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1699427025956?e=1730332800&v=beta&t=ahK4KYr-pb2jCRkmrvAAzvESAhleYp3Gy658ss6-Zl4"  />
 
 ###
 
