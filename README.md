@@ -1,4 +1,4 @@
-<h2 align="left">I am passionate about leveraging computer science to address real-world challenges. My commitment to developing ethical projects and solutions is driven by a desire to positively impact people's lives. As an aspiring Computer Engineer, my interests also extend to aerospace technologies, particularly those related to rocketry.</h2>
+<h2 align="left">I am passionate about leveraging computer science to address real-world challenges. My commitment to developing ethical projects and solutions is driven by a desire to positively impact people's lives. As an aspiring Computer Engineer, my interests also extend to aerospace technologies, particularly those related to rocketry and drones</h2>
 
 ###
 
