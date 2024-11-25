@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🐧PolluxPenguin: An RAG-LLM centered GNC assistant for simplified Drone applications<br><br>🛢QueryGenie:  My University Mini Project exploring the use of RAG in SQL Query Generation<br><br>📷ConViz:  Context-Based Object detection utilizing Ultralytic's YOLO models and open source LMMs<br><br>🚀Quark: A hobby project researching new ways to guide airborne projectiles<br><br>🌐websitem: Learning web dev basics from scratch. currently learning JS and CSS</h3>
+<h3 align="left">🐧PolluxPenguin: An RAG-LLM centered GNC assistant for simplified Drone applications<br><br>🛢QueryGenie:  My University Mini Project exploring the use of RAG in SQL Query Generation<br><br>📷ConViz:  Context-Based Object detection utilizing Ultralytic's YOLO models and open source LMMs<br><br>🚀Quark: A hobby project researching new ways to guide airborne projectiles<br><br>🌐ZOHO CCD: Developing a Dashboard for my university's Course Coordinator in Collaboration with ZOHO</h3>
 
 ###
 
