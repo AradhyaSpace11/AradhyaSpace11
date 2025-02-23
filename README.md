@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🐧PolluxPenguin: An RAG-LLM centered GNC assistant for simplified Drone applications<br><br>🛢QueryGenie:  My University Mini Project exploring the use of RAG in SQL Query Generation<br><br>📷ConViz:  Context-Based Object detection utilizing Ultralytic's YOLO models and open source LMMs<br><br>📄KANKAN: My Research Project, exploring the Kolmogorov Arnold Network Architecture<br><br>🚀Quark: A hobby project researching new ways to guide airborne projectiles<br><br>🌐ZOHO CCD: A Dashboard for my university's Course Coordinator in Collaboration with ZOHO</h3><br><br>🪏AJM-KAN: Using Kolmogorov-Arnold Networks to Model the Objective Function for Abrasive Jet Machining Performance
+<h3 align="left">🐧PolluxPenguin: An RAG-LLM centered GNC assistant for simplified Drone applications<br><br>🛢QueryGenie:  My University Mini Project exploring the use of RAG in SQL Query Generation<br><br>📷ConViz:  Context-Based Object detection utilizing Ultralytic's YOLO models and open source LMMs<br><br>📄KANKAN: My Research Project, exploring the Kolmogorov Arnold Network Architecture<br><br>🚀Quark: A hobby project researching new ways to guide airborne projectiles<br><br>🌐ZOHO CCD: A Dashboard for my university's Course Coordinator in Collaboration with ZOHO<br><br>🪏AJM-KAN: Using Kolmogorov-Arnold Networks to Model the Objective Function for Abrasive Jet Machining Performance</h3>
 
 ###
 
